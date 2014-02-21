@@ -10,3 +10,7 @@ Developed on top of the awesome libgdx engine: http://libgdx.badlogicgames.com/
 Grab the actual android image from:
 https://github.com/panatoli/JNP-libgdx-Box2D/raw/master/jnp-gdx-android.apk
 
+--------------------------------------------------------------------
+Also, check out this game:
+https://play.google.com/store/apps/details?id=com.shval.springer
+
